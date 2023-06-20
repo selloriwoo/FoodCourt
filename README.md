@@ -56,7 +56,7 @@ C# Windows Forms에 오라클 DB를 연동하여 푸드코트의 키오스크를
 ![5](https://github.com/selloriwoo/FoodCourt/assets/39435633/525436b5-93f2-44b5-bb83-15fcd8d5b45e)
 + 프로그램에서 음식을 주문하면 주문번호가 생기면서 하루마다 주문번호가 1로 초기화된다.
 
-## -주문내역-
+## -주문내용-
 
 ![8](https://github.com/selloriwoo/FoodCourt/assets/39435633/8f1b132b-739e-4cbe-a2a7-ce8dd1260472)
 + 주문이 완료 되면 선택한 메뉴들이 DB에 삽입된다.
