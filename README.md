@@ -22,8 +22,8 @@ C# Windows Forms에 오라클 DB를 연동하여 푸드코트의 키오스크를
 ![2](https://github.com/selloriwoo/FoodCourt/assets/39435633/e10c23ab-c00a-4257-9fd6-2745b6450d44)
 <br />
 <br />
-**-타 코트 메뉴 버튼 클릭시-** <br />
-![2](https://github.com/selloriwoo/FoodCourt/assets/39435633/e10c23ab-c00a-4257-9fd6-2745b6450d44)
+**-타 코트 음식점 버튼 클릭시-** <br />
+![2-1](https://github.com/selloriwoo/FoodCourt/assets/39435633/0d049266-b425-45dd-a2d7-95ab37fbc58a)
 
 
 ## 주문 완료
