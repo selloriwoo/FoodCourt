@@ -34,7 +34,7 @@ C# Windows Forms에 오라클 DB를 연동하여 푸드코트의 키오스크를
 
 ## DataBase
 
-## DBModel
+## -DBModel-
 
 ![4](https://github.com/selloriwoo/FoodCourt/assets/39435633/c677d984-c63e-4459-8209-0ad1817d4b26)
 + 음식 코너에 음식점을 넣어주고 메뉴에 각 음식 코너의 메뉴를 넣어준다.
