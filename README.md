@@ -6,7 +6,11 @@
 
 1. **C# Project**<br />
    + Windows Forms
-    
+
+2. **Tools**<br />
+   + SQL Developer Data Modeler
+   + SQL Developer
+
 2. **DB**<br />
    +  OracleDB
 
